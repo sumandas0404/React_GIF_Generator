@@ -1,1 +1,1 @@
-# React_GIF_Generator
+# random-gifs
